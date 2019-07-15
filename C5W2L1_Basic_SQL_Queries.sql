@@ -1,6 +1,11 @@
+/*
+IBM Data Science Professional Certificate
+Course 5 Week 2 Lab 1
+Using basic SQL queries.
+*/
 ------------------------------------------
 --DDL statement for table 'HR' database--
---------------------------------------------
+------------------------------------------
 
 CREATE TABLE EMPLOYEES (
                             EMP_ID CHAR(9) NOT NULL,
