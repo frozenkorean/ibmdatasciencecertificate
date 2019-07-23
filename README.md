@@ -1,2 +1,2 @@
 # ibmdatasciencecertificate
-Work I've done for IBM Data Science Professional Certificate
+This repository includes work I've done for IBM Data Science Professional Certificate except for the Cap Stone Project.
